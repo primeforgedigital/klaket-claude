@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "klaket": {
+      "type": "http",
+      "url": "https://klaket.io/mcp"
+    }
+  }
+}

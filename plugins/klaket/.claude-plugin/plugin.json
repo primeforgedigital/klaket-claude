@@ -1,0 +1,21 @@
+{
+  "name": "klaket",
+  "displayName": "Klaket",
+  "version": "1.0.0",
+  "description": "Social media posts and landing pages for your products, made by Klaket from a conversation: posts designed around your real product photos, with caption, hashtags and ad copy, and landing pages hosted at klaket.io.",
+  "author": {
+    "name": "Klaket",
+    "url": "https://klaket.io",
+    "email": "klaket.support@gmail.com"
+  },
+  "homepage": "https://klaket.io/en/chatgpt-claude",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "social media",
+    "instagram",
+    "landing page",
+    "ecommerce",
+    "ads"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "klaket",
+  "owner": {
+    "name": "Klaket",
+    "email": "klaket.support@gmail.com"
+  },
+  "metadata": {
+    "description": "Klaket plugins for Claude: AI video ads, social posts and landing pages for your products.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "klaket-studio",
+      "source": "./plugins/klaket-studio",
+      "description": "The full Klaket AI marketing studio in Claude: short video ads from a product photo or an idea (with scene approval before rendering), social media posts and hosted landing pages.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klaket",
+        "url": "https://klaket.io",
+        "email": "klaket.support@gmail.com"
+      },
+      "homepage": "https://klaket.io/en/chatgpt-claude",
+      "license": "MIT",
+      "keywords": [
+        "video ads",
+        "ugc",
+        "tiktok",
+        "reels",
+        "marketing",
+        "landing page",
+        "social media"
+      ],
+      "category": "marketing"
+    },
+    {
+      "name": "klaket",
+      "source": "./plugins/klaket",
+      "description": "Social media posts and landing pages for your products, made by Klaket from a conversation: posts designed around your real product photos, with caption, hashtags and ad copy, and landing pages hosted at klaket.io.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klaket",
+        "url": "https://klaket.io",
+        "email": "klaket.support@gmail.com"
+      },
+      "homepage": "https://klaket.io/en/chatgpt-claude",
+      "license": "MIT",
+      "keywords": [
+        "marketing",
+        "social media",
+        "instagram",
+        "landing page",
+        "ecommerce",
+        "ads"
+      ],
+      "category": "marketing"
+    }
+  ]
+}

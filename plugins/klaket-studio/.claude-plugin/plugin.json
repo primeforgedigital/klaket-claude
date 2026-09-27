@@ -1,0 +1,22 @@
+{
+  "name": "klaket-studio",
+  "displayName": "Klaket Studio",
+  "version": "1.0.0",
+  "description": "The full Klaket AI marketing studio in Claude: short video ads from a product photo or an idea (with scene approval before rendering), social media posts and hosted landing pages.",
+  "author": {
+    "name": "Klaket",
+    "url": "https://klaket.io",
+    "email": "klaket.support@gmail.com"
+  },
+  "homepage": "https://klaket.io/en/chatgpt-claude",
+  "license": "MIT",
+  "keywords": [
+    "video ads",
+    "ugc",
+    "tiktok",
+    "reels",
+    "marketing",
+    "landing page",
+    "social media"
+  ]
+}
