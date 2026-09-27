@@ -19,5 +19,9 @@
     "landing page",
     "social media"
   ],
-  "privacyPolicyUrl": "https://klaket.io/en/legal/privacy"
+  "privacyPolicyUrl": "https://klaket.io/en/legal/privacy",
+  "repository": "https://github.com/primeforgedigital/klaket-claude",
+  "documentationUrl": "https://klaket.io/en/chatgpt-claude",
+  "termsOfServiceUrl": "https://klaket.io/en/legal/terms",
+  "supportUrl": "mailto:klaket.support@gmail.com"
 }
