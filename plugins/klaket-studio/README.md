@@ -24,4 +24,4 @@ The plugin connects Claude to your own Klaket account through https://klaket.io/
 
 ## Support
 
-klaket.support@gmail.com · https://klaket.io/en/chatgpt-claude
+klaket.support@gmail.com · https://klaket.io/en/claude-plugin
