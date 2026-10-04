@@ -1,7 +1,7 @@
 {
   "name": "klaket",
   "displayName": "Klaket",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Social media posts and landing pages for your products, made by Klaket from a conversation: posts designed around your real product photos, with caption, hashtags and ad copy, and landing pages hosted at klaket.io.",
   "author": {
     "name": "Klaket",
@@ -22,5 +22,6 @@
   "repository": "https://github.com/primeforgedigital/klaket-claude",
   "documentationUrl": "https://klaket.io/en/claude-plugin",
   "termsOfServiceUrl": "https://klaket.io/en/legal/terms",
-  "supportUrl": "https://klaket.io/en/claude-plugin"
+  "supportUrl": "https://klaket.io/en/claude-plugin",
+  "icon": "./icon.png"
 }
